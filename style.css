@@ -1,0 +1,22 @@
+body {
+    background-color : pink;
+}
+
+h3 {
+    width : 500px;
+}
+
+p {
+    color : white;
+}
+
+label {
+    color :  tomato;
+}
+
+.nameofobjects {
+    color: yellow;
+}
+span {
+    color : yellow;
+}
